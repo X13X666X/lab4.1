@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Грігорович іді нахуй(Від Максіка)";
     int K, N, i;
     double S;
 
